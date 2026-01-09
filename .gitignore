@@ -1,0 +1,30 @@
+# Maven
+**/target/
+**/release/
+
+# Eclipse / IntelliJ
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# local maven repo
+.m2/
+
+# Docker
+docker-compose.override.yml
+
+# VS Code
+.vscode/
+
